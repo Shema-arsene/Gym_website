@@ -36,7 +36,7 @@ const Equipments = () => {
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-6 font-playfair">
           <div className="space-y-6 p-6">
             <h1 className="text-3xl md:text-4xl font-bold">
-              What we offer to you!
+              What we offer you
             </h1>
             <p className="text-gray-500">
               It is a long established fact that a reader readable.
